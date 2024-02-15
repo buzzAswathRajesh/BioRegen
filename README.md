@@ -10,6 +10,9 @@ This Python script, data_bioregen_heatmap.py, is designed to generate heatmaps f
 This Python script, data_bioregen_ARIMA.py, is designed to generate prediction model from provided data samples. It visualizes the measurements of biodegradability for different samples and predict the 100% biodegradability
 This script is useful for researchers, data analysts, or anyone interested in data visualization.
 
+Here is the script with data bootstrapping 
+data_bioregen_bootstrapping_arima.py
+
 **Holt's Linear Trend model**
 
 This Python script, data_bioregen_holts.py, is designed to generate prediction model from provided data samples. It visualizes the measurements of biodegradability for different samples and predict the 100% biodegradability
